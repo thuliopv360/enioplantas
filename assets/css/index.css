@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+footer#footer{
+    width: 97%;
+    margin: 2rem 0;
+    padding: 1rem;
+}
+
+section#displayFooter{
+    display: flex;
+}
+
+div#service{
+    width: 22%;
+    display: flex;
+    flex-direction: column;
+}
+
+div#institutional{
+    width: 22%;
+    display:flex;
+    flex-direction: column;
+}
+
+div#help{
+    width: 28%;
+    display:flex;
+    flex-direction: column;
+}
+
+div#payment{
+    width: 22%;
+    display:flex;
+    flex-direction: column;
+}
+
+.spacingFooter{
+    padding: 3px 0 4px 0;
+}
+
+.linkFooter{
+    text-decoration: none;
+    color:rgb(75, 182, 60);
+}
