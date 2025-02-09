@@ -3,6 +3,41 @@
     margin: 0;
 }
 
+header#header{
+    width:97%;
+    height: 1rem 0;
+    padding: 1rem;
+    background-color: #bcfabe;
+}
+
+
+a#linkHeader{
+    width: 10px;
+    height: 10px;
+}
+
+img#imageHeader{
+    width: 10rem;
+    height: 10rem;
+}
+
+input#inputHeader{
+    width:1rem;
+    height: 1rem;
+    padding: 2rem;
+}
+
+button#buttonHeader{
+    width:1rem;
+    height: 1rem 0;
+    padding: 1rem;
+}
+
+img#imageButton{
+    width: 1rem;
+    height: 1rem;
+}
+
 footer#footer{
     width: 97%;
     margin: 2rem 0;
