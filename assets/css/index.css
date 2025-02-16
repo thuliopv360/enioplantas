@@ -38,6 +38,22 @@ img#imageButton{
     height: 1rem;
 }
 
+section#display{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+tr.tableDisplay{
+    display:flex;
+    flex-direction: column;
+}
+
+img.imageDisplay{
+    height:15rem;
+    width:12rem;
+    border-radius: 1rem;
+}
+
 footer#footer{
     width: 97%;
     margin: 2rem 0;
